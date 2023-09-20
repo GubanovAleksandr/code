@@ -1,0 +1,15 @@
+D:\GEEKBRAIN\code\examples\examle001_helloterminal\bin\Debug\net6.0\examle001_helloterminal.exe
+D:\GEEKBRAIN\code\examples\examle001_helloterminal\bin\Debug\net6.0\examle001_helloterminal.deps.json
+D:\GEEKBRAIN\code\examples\examle001_helloterminal\bin\Debug\net6.0\examle001_helloterminal.runtimeconfig.json
+D:\GEEKBRAIN\code\examples\examle001_helloterminal\bin\Debug\net6.0\examle001_helloterminal.dll
+D:\GEEKBRAIN\code\examples\examle001_helloterminal\bin\Debug\net6.0\examle001_helloterminal.pdb
+D:\GEEKBRAIN\code\examples\examle001_helloterminal\obj\Debug\net6.0\examle001_helloterminal.csproj.AssemblyReference.cache
+D:\GEEKBRAIN\code\examples\examle001_helloterminal\obj\Debug\net6.0\examle001_helloterminal.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAIN\code\examples\examle001_helloterminal\obj\Debug\net6.0\examle001_helloterminal.AssemblyInfoInputs.cache
+D:\GEEKBRAIN\code\examples\examle001_helloterminal\obj\Debug\net6.0\examle001_helloterminal.AssemblyInfo.cs
+D:\GEEKBRAIN\code\examples\examle001_helloterminal\obj\Debug\net6.0\examle001_helloterminal.csproj.CoreCompileInputs.cache
+D:\GEEKBRAIN\code\examples\examle001_helloterminal\obj\Debug\net6.0\examle001_helloterminal.dll
+D:\GEEKBRAIN\code\examples\examle001_helloterminal\obj\Debug\net6.0\refint\examle001_helloterminal.dll
+D:\GEEKBRAIN\code\examples\examle001_helloterminal\obj\Debug\net6.0\examle001_helloterminal.pdb
+D:\GEEKBRAIN\code\examples\examle001_helloterminal\obj\Debug\net6.0\examle001_helloterminal.genruntimeconfig.cache
+D:\GEEKBRAIN\code\examples\examle001_helloterminal\obj\Debug\net6.0\ref\examle001_helloterminal.dll
