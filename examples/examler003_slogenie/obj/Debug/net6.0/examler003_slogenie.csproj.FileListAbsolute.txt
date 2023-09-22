@@ -1,0 +1,15 @@
+D:\GEEKBRAIN\code\examples\examler003_slogenie\bin\Debug\net6.0\examler003_slogenie.exe
+D:\GEEKBRAIN\code\examples\examler003_slogenie\bin\Debug\net6.0\examler003_slogenie.deps.json
+D:\GEEKBRAIN\code\examples\examler003_slogenie\bin\Debug\net6.0\examler003_slogenie.runtimeconfig.json
+D:\GEEKBRAIN\code\examples\examler003_slogenie\bin\Debug\net6.0\examler003_slogenie.dll
+D:\GEEKBRAIN\code\examples\examler003_slogenie\bin\Debug\net6.0\examler003_slogenie.pdb
+D:\GEEKBRAIN\code\examples\examler003_slogenie\obj\Debug\net6.0\examler003_slogenie.csproj.AssemblyReference.cache
+D:\GEEKBRAIN\code\examples\examler003_slogenie\obj\Debug\net6.0\examler003_slogenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAIN\code\examples\examler003_slogenie\obj\Debug\net6.0\examler003_slogenie.AssemblyInfoInputs.cache
+D:\GEEKBRAIN\code\examples\examler003_slogenie\obj\Debug\net6.0\examler003_slogenie.AssemblyInfo.cs
+D:\GEEKBRAIN\code\examples\examler003_slogenie\obj\Debug\net6.0\examler003_slogenie.csproj.CoreCompileInputs.cache
+D:\GEEKBRAIN\code\examples\examler003_slogenie\obj\Debug\net6.0\examler003_slogenie.dll
+D:\GEEKBRAIN\code\examples\examler003_slogenie\obj\Debug\net6.0\refint\examler003_slogenie.dll
+D:\GEEKBRAIN\code\examples\examler003_slogenie\obj\Debug\net6.0\examler003_slogenie.pdb
+D:\GEEKBRAIN\code\examples\examler003_slogenie\obj\Debug\net6.0\examler003_slogenie.genruntimeconfig.cache
+D:\GEEKBRAIN\code\examples\examler003_slogenie\obj\Debug\net6.0\ref\examler003_slogenie.dll

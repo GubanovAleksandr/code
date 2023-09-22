@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GEEKBRAIN\\code\\examples\\examle001_helloterminal\\examle001_helloterminal.csproj": {}
+    "d:\\GEEKBRAIN\\code\\examples\\examle001_helloterminal\\examle001_helloterminal.csproj": {}
   },
   "projects": {
-    "D:\\GEEKBRAIN\\code\\examples\\examle001_helloterminal\\examle001_helloterminal.csproj": {
+    "d:\\GEEKBRAIN\\code\\examples\\examle001_helloterminal\\examle001_helloterminal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GEEKBRAIN\\code\\examples\\examle001_helloterminal\\examle001_helloterminal.csproj",
+        "projectUniqueName": "d:\\GEEKBRAIN\\code\\examples\\examle001_helloterminal\\examle001_helloterminal.csproj",
         "projectName": "examle001_helloterminal",
-        "projectPath": "D:\\GEEKBRAIN\\code\\examples\\examle001_helloterminal\\examle001_helloterminal.csproj",
+        "projectPath": "d:\\GEEKBRAIN\\code\\examples\\examle001_helloterminal\\examle001_helloterminal.csproj",
         "packagesPath": "C:\\Users\\LYNX\\.nuget\\packages\\",
-        "outputPath": "D:\\GEEKBRAIN\\code\\examples\\examle001_helloterminal\\obj\\",
+        "outputPath": "d:\\GEEKBRAIN\\code\\examples\\examle001_helloterminal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LYNX\\AppData\\Roaming\\NuGet\\NuGet.Config"

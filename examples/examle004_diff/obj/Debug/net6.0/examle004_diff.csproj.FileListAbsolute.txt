@@ -1,0 +1,15 @@
+D:\GEEKBRAIN\code\examples\examle004_diff\obj\Debug\net6.0\examle004_diff.csproj.AssemblyReference.cache
+D:\GEEKBRAIN\code\examples\examle004_diff\obj\Debug\net6.0\examle004_diff.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAIN\code\examples\examle004_diff\obj\Debug\net6.0\examle004_diff.AssemblyInfoInputs.cache
+D:\GEEKBRAIN\code\examples\examle004_diff\obj\Debug\net6.0\examle004_diff.AssemblyInfo.cs
+D:\GEEKBRAIN\code\examples\examle004_diff\obj\Debug\net6.0\examle004_diff.csproj.CoreCompileInputs.cache
+D:\GEEKBRAIN\code\examples\examle004_diff\bin\Debug\net6.0\examle004_diff.exe
+D:\GEEKBRAIN\code\examples\examle004_diff\bin\Debug\net6.0\examle004_diff.deps.json
+D:\GEEKBRAIN\code\examples\examle004_diff\bin\Debug\net6.0\examle004_diff.runtimeconfig.json
+D:\GEEKBRAIN\code\examples\examle004_diff\bin\Debug\net6.0\examle004_diff.dll
+D:\GEEKBRAIN\code\examples\examle004_diff\bin\Debug\net6.0\examle004_diff.pdb
+D:\GEEKBRAIN\code\examples\examle004_diff\obj\Debug\net6.0\examle004_diff.dll
+D:\GEEKBRAIN\code\examples\examle004_diff\obj\Debug\net6.0\refint\examle004_diff.dll
+D:\GEEKBRAIN\code\examples\examle004_diff\obj\Debug\net6.0\examle004_diff.pdb
+D:\GEEKBRAIN\code\examples\examle004_diff\obj\Debug\net6.0\examle004_diff.genruntimeconfig.cache
+D:\GEEKBRAIN\code\examples\examle004_diff\obj\Debug\net6.0\ref\examle004_diff.dll
