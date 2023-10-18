@@ -1,0 +1,14 @@
+D:\GEEKBRAIN\code\Bootcamp\Seminar\obj\Debug\net7.0\Seminar.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAIN\code\Bootcamp\Seminar\obj\Debug\net7.0\Seminar.AssemblyInfoInputs.cache
+D:\GEEKBRAIN\code\Bootcamp\Seminar\obj\Debug\net7.0\Seminar.AssemblyInfo.cs
+D:\GEEKBRAIN\code\Bootcamp\Seminar\obj\Debug\net7.0\Seminar.csproj.CoreCompileInputs.cache
+D:\GEEKBRAIN\code\Bootcamp\Seminar\bin\Debug\net7.0\Seminar.exe
+D:\GEEKBRAIN\code\Bootcamp\Seminar\bin\Debug\net7.0\Seminar.deps.json
+D:\GEEKBRAIN\code\Bootcamp\Seminar\bin\Debug\net7.0\Seminar.runtimeconfig.json
+D:\GEEKBRAIN\code\Bootcamp\Seminar\bin\Debug\net7.0\Seminar.dll
+D:\GEEKBRAIN\code\Bootcamp\Seminar\bin\Debug\net7.0\Seminar.pdb
+D:\GEEKBRAIN\code\Bootcamp\Seminar\obj\Debug\net7.0\Seminar.dll
+D:\GEEKBRAIN\code\Bootcamp\Seminar\obj\Debug\net7.0\refint\Seminar.dll
+D:\GEEKBRAIN\code\Bootcamp\Seminar\obj\Debug\net7.0\Seminar.pdb
+D:\GEEKBRAIN\code\Bootcamp\Seminar\obj\Debug\net7.0\Seminar.genruntimeconfig.cache
+D:\GEEKBRAIN\code\Bootcamp\Seminar\obj\Debug\net7.0\ref\Seminar.dll
